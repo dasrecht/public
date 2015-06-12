@@ -16,6 +16,7 @@ Random Conferences on my "want to go there"-list
 ## Frondend and Technology
 - [Swiss JS](http://www.swissjs.com/)
 - [FrontendConf](http://frontendconf.ch/)
+- [JS Days Verona](http://2015.jsday.it/)
 
 ## Drupal Camps
 - [Drupal Iron Camp](http://drupalironcamp.com/)
