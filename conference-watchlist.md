@@ -8,6 +8,7 @@ Random Conferences on my "want to go there"-list
 ## Opensource
 - [Oscon](http://www.oscon.com/)
 - [Fosdem](https://fosdem.org/)
+- [FrOsCon](http://www.froscon.de)
 
 ## PHP
 - [PHP Days Verona](http://2015.phpday.it/)
