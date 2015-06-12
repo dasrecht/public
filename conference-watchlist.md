@@ -13,6 +13,10 @@ Random Conferences on my "want to go there"-list
 ## PHP
 - [PHP Days Verona](http://2015.phpday.it/)
 
+## Frondend and Technology
+- [Swiss JS](http://www.swissjs.com/)
+- [FrontendConf](http://frontendconf.ch/)
+
 ## Drupal Camps
 - [Drupal Iron Camp](http://drupalironcamp.com/)
 
