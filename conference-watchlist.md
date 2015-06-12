@@ -15,3 +15,7 @@ Random Conferences on my "want to go there"-list
 
 ## Drupal Camps
 - [Drupal Iron Camp](http://drupalironcamp.com/)
+
+## Barcamps
+- [Cosin](https://www.cosin.ch/)
+- [Barcamp Bodensee](http://barcamp-bodensee.de/)
