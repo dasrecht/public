@@ -14,7 +14,7 @@ Random Conferences on my "want to go there"-list
 - [PHP Days Verona](http://2015.phpday.it/)
 
 ## Big Data
-- -[Berlin Buzzwords](https://berlinbuzzwords.de/17/about)
+- [Berlin Buzzwords](https://berlinbuzzwords.de/17/about)
 
 ## Frondend and Technology
 - [Swiss JS](http://www.swissjs.com/)
