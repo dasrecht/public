@@ -9,8 +9,12 @@ Random Conferences on my "want to go there"-list
 - [Oscon](http://www.oscon.com/)
 - [Fosdem](https://fosdem.org/)
 - [FrOsCon](http://www.froscon.de)
-- [CCC](https://events.ccc.de/)
 
+## Hackers and the like ;)
+- [CCC](https://events.ccc.de/)
+- [SHA](https://sha2017.org/)
+- [insomnihack](https://insomnihack.ch/)
+- 
 ## PHP
 - [PHP Days Verona](http://phpday.it/)
 
