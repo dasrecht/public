@@ -22,7 +22,7 @@ Random Conferences on my "want to go there"-list
 - [Berlin Buzzwords](https://berlinbuzzwords.de/17/about)
 - [FunctionConf](https://functionconf.io/)
 
-## Frondend and Technology
+## Frontend and Technology
 - [Swiss JS](http://www.swissjs.com/)
 - [FrontendConf](http://frontendconf.ch/)
 - [JS Days Verona](http://jsday.it/)
