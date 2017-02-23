@@ -42,6 +42,8 @@ Random Conferences on my "want to go there"-list
 
 ## Creatives
 - [Do Lectures](http://www.thedolectures.com/)
+- [xoxo fest](https://xoxofest.com/)
+- [CreativeMornings](https://creativemornings.com/)
 
 ## TEDx
 - TEDxCapetown
