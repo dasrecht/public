@@ -5,7 +5,7 @@ Random Conferences on my "want to go there"-list
 - [Velocity](http://velocityconf.com/)
 - [Devopsdays](http://www.devopsdays.org/)
 - [cfgmgmtcamp](http://cfgmgmtcamp.eu/)
--
+
 ## Opensource
 - [Oscon](http://www.oscon.com/)
 - [Fosdem](https://fosdem.org/)
