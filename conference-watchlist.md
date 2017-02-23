@@ -9,21 +9,36 @@ Random Conferences on my "want to go there"-list
 - [Oscon](http://www.oscon.com/)
 - [Fosdem](https://fosdem.org/)
 - [FrOsCon](http://www.froscon.de)
+- [CCC](https://events.ccc.de/)
 
 ## PHP
-- [PHP Days Verona](http://2015.phpday.it/)
+- [PHP Days Verona](http://phpday.it/)
 
-## Big Data
+## New Technology
 - [Berlin Buzzwords](https://berlinbuzzwords.de/17/about)
+- [FunctionConf](https://functionconf.io/)
 
 ## Frondend and Technology
 - [Swiss JS](http://www.swissjs.com/)
 - [FrontendConf](http://frontendconf.ch/)
-- [JS Days Verona](http://2015.jsday.it/)
+- [JS Days Verona](http://jsday.it/)
 
 ## Drupal Camps
 - [Drupal Iron Camp](http://drupalironcamp.com/)
+- [Drupal Mountain Camp](https://drupalmountaincamp.ch/)
+- [Drupalcamp London](http://drupalcamp.london/)
 
 ## Barcamps
 - [Cosin](https://www.cosin.ch/)
 - [Barcamp Bodensee](http://barcamp-bodensee.de/)
+
+## Conference Conferences
+- [ConfConf](https://conf-conf.com/) - 19th May 2017
+
+## Creatives
+- [Do Lectures](http://www.thedolectures.com/)
+
+## TEDx
+- TEDxCapetown
+- TEDxZurich
+- TEDxMartingy
