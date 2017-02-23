@@ -14,7 +14,7 @@ Random Conferences on my "want to go there"-list
 - [CCC](https://events.ccc.de/)
 - [SHA](https://sha2017.org/)
 - [insomnihack](https://insomnihack.ch/)
-- 
+
 ## PHP
 - [PHP Days Verona](http://phpday.it/)
 
