@@ -44,7 +44,8 @@ Random Conferences on my "want to go there"-list
 - [Do Lectures](http://www.thedolectures.com/)
 - [xoxo fest](https://xoxofest.com/)
 - [CreativeMornings](https://creativemornings.com/)
-
+- Ars Electronica Linz
+- Documenta
 ## TEDx
 - TEDxCapetown
 - TEDxZurich
