@@ -2,51 +2,52 @@
 Random Conferences on my "want to go there"-list
 
 ## DevOps
+- [ ] [cfgmgmtcamp](http://cfgmgmtcamp.eu/)
 - [ ] [Velocity](http://velocityconf.com/)
-- [Devopsdays](http://www.devopsdays.org/)
-- [] [cfgmgmtcamp](http://cfgmgmtcamp.eu/)
+- [x] [Devopsdays](http://www.devopsdays.org/)
 
 ## Opensource
-- [] [Oscon](http://www.oscon.com/)
-- [] [Fosdem](https://fosdem.org/)
-- [] [FrOsCon](http://www.froscon.de)
+- [ ] [Fosdem](https://fosdem.org/)
+- [ ] [FrOsCon](http://www.froscon.de)
+- [ ] [Oscon](http://www.oscon.com/)
 
 ## Hackers and the like ;)
-- [] [CCC](https://events.ccc.de/)
-- [] [SHA](https://sha2017.org/)
-- [] [Insomnihack](https://insomnihack.ch/)
+- [ ] [CCC](https://events.ccc.de/)
+- [ ] [SHA](https://sha2017.org/)
+- [ ] [Insomnihack](https://insomnihack.ch/)
+- [x] [Cosin](https://www.cosin.ch/)
 
 ## PHP
 - [x] [PHP Days Verona](http://phpday.it/)
 
 ## New Technology
-- [Berlin Buzzwords](https://berlinbuzzwords.de/17/about)
-- [FunctionConf](https://functionconf.io/)
+- [ ] [Berlin Buzzwords](https://berlinbuzzwords.de/17/about)
+- [ ] [FunctionConf](https://functionconf.io/)
 
 ## Frontend and Technology
-- [Swiss JS](http://www.swissjs.com/)
-- [FrontendConf](http://frontendconf.ch/)
-- [JS Days Verona](http://jsday.it/)
+- [x] [FrontendConf](http://frontendconf.ch/)
+- [x] [JS Days Verona](http://jsday.it/)
+- [x] [Swiss JS](http://www.swissjs.com/)
 
 ## Drupal Camps
-- [Drupal Iron Camp](http://drupalironcamp.com/)
-- [Drupal Mountain Camp](https://drupalmountaincamp.ch/)
-- [Drupalcamp London](http://drupalcamp.london/)
-
+- [ ] [Drupal Iron Camp](http://drupalironcamp.com/)
+- [x] [Drupal Mountain Camp](https://drupalmountaincamp.ch/)
+- [x] [Drupalcamp London](http://drupalcamp.london/)
+- [ ] [Drupal Business & Community Days - Heidelberg](https://www.drupal-business-and-community-days.de/)
 ## Barcamps
-- [Cosin](https://www.cosin.ch/)
-- [Barcamp Bodensee](http://barcamp-bodensee.de/)
+- [ ] [Barcamp Bodensee](http://barcamp-bodensee.de/)
 
 ## Conference Conferences
-- [ConfConf](https://conf-conf.com/) - 19th May 2017
+- [ ] [ConfConf](https://conf-conf.com/) - 19th May 2017
 
 ## Creatives
-- [Do Lectures](http://www.thedolectures.com/)
-- [xoxo fest](https://xoxofest.com/)
-- [CreativeMornings](https://creativemornings.com/)
-- Ars Electronica Linz
-- Documenta
+- [ ] [Do Lectures](http://www.thedolectures.com/)
+- [ ] [xoxo fest](https://xoxofest.com/)
+- [ ] [CreativeMornings](https://creativemornings.com/)
+- [ ] [Ars Electronica Linz](http://www.aec.at/news/)
+- [ ] [Documenta](https://www.documenta.de/)
+
 ## TEDx
-- TEDxCapetown
-- TEDxZurich
-- TEDxMartingy
+- [x] TEDxCapetown
+- [x] TEDxZurich
+- [x] TEDxMartingy
