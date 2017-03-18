@@ -2,22 +2,22 @@
 Random Conferences on my "want to go there"-list
 
 ## DevOps
-- [Velocity](http://velocityconf.com/)
+- [ ] [Velocity](http://velocityconf.com/)
 - [Devopsdays](http://www.devopsdays.org/)
-- [cfgmgmtcamp](http://cfgmgmtcamp.eu/)
+- [] [cfgmgmtcamp](http://cfgmgmtcamp.eu/)
 
 ## Opensource
-- [Oscon](http://www.oscon.com/)
-- [Fosdem](https://fosdem.org/)
-- [FrOsCon](http://www.froscon.de)
+- [] [Oscon](http://www.oscon.com/)
+- [] [Fosdem](https://fosdem.org/)
+- [] [FrOsCon](http://www.froscon.de)
 
 ## Hackers and the like ;)
-- [CCC](https://events.ccc.de/)
-- [SHA](https://sha2017.org/)
-- [insomnihack](https://insomnihack.ch/)
+- [] [CCC](https://events.ccc.de/)
+- [] [SHA](https://sha2017.org/)
+- [] [Insomnihack](https://insomnihack.ch/)
 
 ## PHP
-- [PHP Days Verona](http://phpday.it/)
+- [x] [PHP Days Verona](http://phpday.it/)
 
 ## New Technology
 - [Berlin Buzzwords](https://berlinbuzzwords.de/17/about)
